@@ -1,0 +1,9 @@
+input(): recebe um valor digitado pelo usuário.
+int(): converte o valor para um número inteiro.
+numero =: guarda o valor na variável numero.
+for: repete um bloco de código.
+range(1, 11): gera os números de 1 a 10.
+i: variável que muda de 1 até 10 a cada repetição.
+resultado = numero * i: faz a multiplicação e guarda o resultado.
+print(): exibe o resultado na tela.
+f"{}": permite colocar o valor das variáveis dentro do texto exibido.
